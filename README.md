@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @bagasalim
-- 👀 I’m interested in web development and search engine optimization
+
